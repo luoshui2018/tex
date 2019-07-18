@@ -7,4 +7,8 @@ echo "aaaqqaaa";
 
 echo "dev fenzhi";
 
+<<<<<<< HEAD
 echo "master fenzho ------------";
+=======
+echo "dev fenzhi -----------------------";
+>>>>>>> dev
